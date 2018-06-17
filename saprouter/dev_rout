@@ -1,0 +1,12 @@
+
+---------------------------------------------------
+trc file: "dev_rout", trc level: 1, release: "753"
+---------------------------------------------------
+
+Thu May 17 14:51:23 2018
+SAP Network Interface Router, Version 40.4
+
+command line arg 0:	./saprouter
+command line arg 1:	-r
+main: pid = 16290, ppid = 16289, port = 3299, parent port = 0 (0 = parent is not a saprouter)
+reading routtab: './saprouttab'
